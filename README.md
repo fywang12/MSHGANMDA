@@ -24,8 +24,8 @@ python main.py
 ```
 
 # If you refer to our study, please cite
-```text
-@ARTICLE{9807419,
+```bibtex
+@ARTICLE{wang2023mshganmda,
   author={Wang, Shudong and Wang, Fuyu and Qiao, Sibo and Zhuang, Yu and Zhang, Kuijie and Pang, Shanchen and Nowak, Robert and Lv, Zhihan},  
   journal={IEEE Journal of Biomedical and Health Informatics},   
   title={MSHGANMDA: Meta-Subgraphs Heterogeneous Graph Attention Network for miRNA-Disease Association Prediction},   
